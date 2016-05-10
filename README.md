@@ -1,6 +1,6 @@
 ## Getting and Clean Data - Data Science Course project 
 
-The single R script run_analysis.R does the job of downloading data if it does not exist and processes it to create
+The R script run_analysis.R does the job of downloading data if it does not exist and processes it to create
 the tidy data set that is required by the assignment.
 
 Here are the steps
