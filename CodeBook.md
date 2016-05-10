@@ -1,4 +1,4 @@
-### Code Book for Data Science Course 3 Project output file FinalTidyData.txt ##
+### Code Book for Data Science Course 3 Project output file FinalTidyData.txt ###
 by Amol Sahasrabudhe
 
 ## Description ##
