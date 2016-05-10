@@ -55,7 +55,7 @@ Columns 1-2  in the final tidy data set are the primary keys
 1. activity_label : contains values like LAYING SITTING STANDING WALKING WALKING_DOWNSTAIRS WALKING_UPSTAIRS
 2. subject_id : the id of the volunteer ( 1 among 30) that the observations are recorded for
 
-## MEasures ##Columns 3 - 88 contain averages of the mean and standard deviations for each subject and activity_label combination.
+## Measures ##Columns 3 - 88 contain averages of the mean and standard deviations for each subject and activity_label combination.
  [3] "timeBodyAccelerator.mean.X"                         "timeBodyAccelerator.mean.Y"                        
  [5] "timeBodyAccelerator.mean.Z"                         "timeBodyAccelerator.std.X"                         
  [7] "timeBodyAccelerator.std.Y"                          "timeBodyAccelerator.std.Z"                         
