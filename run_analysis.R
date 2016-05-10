@@ -90,6 +90,6 @@ final_data.dt <- data.table(final_data)
 finalTidy <- final_data.dt[, lapply(.SD, mean), by = 'activity_label,subject_id']
 
 # Write out the tidy data set
-write.table(finalTidy, file = 'FinalTidyData.txt')
+write.table(finalTidy, file = 'FinalTidyData.txt', row.names = FALSE)
 
 
